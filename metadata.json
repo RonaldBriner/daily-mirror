@@ -1,0 +1,6 @@
+{
+  "name": "DailyMirror – Editorial Publication & SEO Suite",
+  "description": "Independent digital journalism, in-depth search engineering essays, and an interactive SEO intelligence toolkit for publishers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
